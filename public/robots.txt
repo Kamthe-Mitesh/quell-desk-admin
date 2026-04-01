@@ -1,0 +1,5 @@
+# Disallow all robots from crawling this site
+# This is an internal complaint management tool
+
+User-agent: *
+Disallow: /

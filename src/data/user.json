@@ -1,0 +1,11 @@
+{
+  "id": "admin1",
+  "name": "Admin",
+  "email": "admin@quelldesk.com",
+  "phone": "",
+  "wing": "",
+  "floor": "",
+  "flat": "",
+  "verificationStatus": "verified",
+  "role": "admin"
+}

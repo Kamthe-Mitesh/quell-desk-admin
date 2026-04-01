@@ -1,0 +1,79 @@
+[
+  {
+    "id": "admin1",
+    "name": "Admin",
+    "email": "admin@quelldesk.com",
+    "phone": "",
+    "wing": "",
+    "floor": "",
+    "flat": "",
+    "verificationStatus": "verified",
+    "role": "admin"
+  },
+  {
+    "id": "user1",
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "phone": "+91 98765 43210",
+    "wing": "A",
+    "floor": "3",
+    "flat": "301",
+    "verificationStatus": "verified",
+    "role": "user"
+  },
+  {
+    "id": "user2",
+    "name": "Sarah Johnson",
+    "email": "sarah.j@example.com",
+    "phone": "+91 98765 43211",
+    "wing": "B",
+    "floor": "5",
+    "flat": "502",
+    "verificationStatus": "unverified",
+    "role": "user"
+  },
+  {
+    "id": "user3",
+    "name": "Michael Chen",
+    "email": "m.chen@example.com",
+    "phone": "+91 98765 43212",
+    "wing": "A",
+    "floor": "7",
+    "flat": "704",
+    "verificationStatus": "verified",
+    "role": "user"
+  },
+  {
+    "id": "user4",
+    "name": "Emily Rodriguez",
+    "email": "emily.r@example.com",
+    "phone": "+91 98765 43213",
+    "wing": "C",
+    "floor": "2",
+    "flat": "205",
+    "verificationStatus": "unverified",
+    "role": "user"
+  },
+  {
+    "id": "user5",
+    "name": "David Kumar",
+    "email": "david.k@example.com",
+    "phone": "+91 98765 43214",
+    "wing": "B",
+    "floor": "4",
+    "flat": "403",
+    "verificationStatus": "verified",
+    "role": "user"
+  },
+  {
+    "id": "user69",
+    "name": "Exodus",
+    "email": "exodus@gmail.com",
+    "phone": "+91 XXXXX XXXXX",
+    "wing": "A",
+    "floor": "5",
+    "flat": "69",
+    "verificationStatus": "verified",
+    "role": "user"
+  }
+]

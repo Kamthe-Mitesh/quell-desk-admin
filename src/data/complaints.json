@@ -1,0 +1,113 @@
+[
+  {
+    "id": "CMP-001",
+    "title": "Broken Elevator in Wing A",
+    "subject": "The elevator in Wing A, Floor 5 has been out of service for three days now. This is causing significant inconvenience to elderly residents who are unable to use the stairs. The elevator stops between floors and the doors won't open properly. This needs urgent attention as it's a safety hazard.",
+    "images": [
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80"
+    ],
+    "status": "in-progress",
+    "createdAt": "2026-01-02T10:30:00Z",
+    "updatedAt": "2026-01-03T14:20:00Z",
+    "userId": "user2",
+    "assignedTo": "Rajesh Kumar",
+    "assignedWorkerType": "electrician",
+    "submittedBy": {
+      "name": "Sarah Johnson",
+      "email": "sarah.j@example.com",
+      "location": "Wing B, Floor 5, Flat 502"
+    }
+  },
+  {
+    "id": "CMP-002",
+    "title": "Water Leakage in Parking Area",
+    "subject": "There is continuous water leakage in the basement parking area near slot B-23. The water is pooling and creating a slippery surface which is dangerous. It appears to be coming from an overhead pipe. The leakage has been ongoing for over a week now and is damaging vehicles parked nearby.",
+    "images": [
+      "https://images.unsplash.com/photo-1590642916589-592bca10dfbf?w=800&q=80",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&q=80"
+    ],
+    "status": "in-progress",
+    "createdAt": "2026-01-01T14:15:00Z",
+    "updatedAt": "2026-01-02T09:00:00Z",
+    "userId": "user3",
+    "assignedTo": "Amit Patel",
+    "assignedWorkerType": "plumber",
+    "submittedBy": {
+      "name": "Michael Chen",
+      "email": "m.chen@example.com",
+      "location": "Wing A, Floor 7, Flat 704"
+    }
+  },
+  {
+    "id": "CMP-003",
+    "title": "Street Light Not Working",
+    "subject": "The street light near the main gate entrance has not been working for the past two weeks. This creates a safety concern as the area is very dark at night and makes it difficult for residents to walk safely. The light bulb appears to be broken or the wiring might be faulty.",
+    "images": [
+      "https://images.unsplash.com/photo-1513828583688-c52646db42da?w=800&q=80"
+    ],
+    "status": "unresolved",
+    "createdAt": "2025-11-20T08:45:00Z",
+    "updatedAt": "2025-11-20T08:45:00Z",
+    "userId": "user1",
+    "submittedBy": {
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "location": "Wing A, Floor 3, Flat 301"
+    }
+  },
+  {
+    "id": "CMP-004",
+    "title": "Gym AC Maintenance Required",
+    "subject": "The AC in the gym is not cooling effectively during peak hours. It seems to need servicing or gas refilling. The temperature inside reaches uncomfortable levels making it difficult to exercise.",
+    "images": [
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80"
+    ],
+    "status": "resolved",
+    "createdAt": "2025-12-25T09:00:00Z",
+    "updatedAt": "2025-12-28T16:30:00Z",
+    "userId": "user4",
+    "assignedTo": "Vijay Singh",
+    "assignedWorkerType": "electrician",
+    "submittedBy": {
+      "name": "David Kumar",
+      "email": "david.k@example.com",
+      "location": "Wing B, Floor 4, Flat 403"
+    }
+  },
+  {
+    "id": "CMP-005",
+    "title": "Garden Area Needs Cleaning",
+    "subject": "The children's play area in the garden has accumulated a lot of leaves and debris. The benches are also dirty and need cleaning. This area is used frequently by families with children.",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&q=80"
+    ],
+    "status": "unresolved",
+    "createdAt": "2025-12-05T11:20:00Z",
+    "updatedAt": "2025-12-05T11:20:00Z",
+    "userId": "user5",
+    "submittedBy": {
+      "name": "Emily Rodriguez",
+      "email": "emily.r@example.com",
+      "location": "Wing C, Floor 2, Flat 205"
+    }
+  },
+  {
+    "id": "CMP-006",
+    "title": "Main Gate Lock Broken",
+    "subject": "The main entrance gate lock is broken and not closing properly. This is a serious security concern as anyone can enter the premises. Needs immediate attention.",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    ],
+    "status": "unresolved",
+    "createdAt": "2026-01-04T07:15:00Z",
+    "updatedAt": "2026-01-04T07:15:00Z",
+    "userId": "user69",
+    "submittedBy": {
+      "name": "Exodus",
+      "email": "exodus@gmail.com",
+      "location": "Wing A, Floor 5, Flat 69"
+    }
+  }
+]
